@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello World with React and Cloud 9
 
 Requirements: Make sure you are using node version 8
@@ -43,3 +44,7 @@ $ npm run deploy
 - Hot Deploy: Use of [Webpack Development Server](https://webpack.js.org/configuration/dev-server/) for hot deploy and live reload.
 - One-click publish of the code to github pages.
 - Babel 7 (really fast).
+=======
+# travel-lingos
+an application to help a traveler translate their illness to a medical professional 
+>>>>>>> dfaf430b71d9ab65a8649816b0f9d09d5e743bfd
